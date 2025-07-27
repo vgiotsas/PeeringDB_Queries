@@ -114,6 +114,7 @@ if __name__ == "__main__":
     METRIC_CHOICE = 'speed'
 
     # The path to your locally downloaded PeeringDB JSON file.
+    # The data are provided by CAIDA at: https://www.caida.org/catalog/datasets/ixps/
     PEERINGDB_FILE = 'peeringdb_data/peeringdb_2_dump_2025_07_26.json'
 
     # --- Execution ---
